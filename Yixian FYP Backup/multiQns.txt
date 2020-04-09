@@ -1,0 +1,30 @@
+Part 1 Qn 1
+To what extent do you hear traffic noise?
+Part 1 Qn 2
+To what extent do you hear other noise (eg, construction)?
+Part 1 Qn 3
+To what extent do you hear sounds from human beings?
+Part 1 Qn 4
+To what extent do you hear natural sounds (eg, flowing water)?
+Part 2 Qn 5
+Is the present surrounding sound environment pleasant?
+Part 2 Qn 6
+Is the present surrounding sound environment chaotic?
+Part 2 Qn 7
+Is the present surrounding sound environment vibrant?
+Part 2 Qn 8
+Is the present surrounding sound environment uneventful?
+Part 2 Qn 9
+Is the present surrounding sound environment calm?
+Part 2 Qn 10
+Is the present surrounding sound environment annoying?
+Part 2 Qn 11
+Is the present surrounding sound environment eventful?
+Part 2 Qn 12
+Is the present surrounding sound environment monotonous?
+Part 3 Qn 13
+Overall, how is the present surrounding sound environment?
+Part 4 Qn 14
+Overall, how appropriate is the surrounding sound environment to the present place?
+Survey Completed!
+Please select another video at the right side.
