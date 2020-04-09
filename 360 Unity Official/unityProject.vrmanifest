@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.360unityofficial.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\FYP\\Unity\\360 Unity Official\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "360 Unity Official [Testing]"
+        }
+      }
+    }
+  ]
+}

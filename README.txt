@@ -4,3 +4,5 @@ desired videos into this path:
 path\soundscape-player\Unity\360 Unity Official\Assets\Interactive360\Videos
 
 Audio files can be used from anywhere.
+
+When first starting the application, start MainMenu_Controller scene to play.

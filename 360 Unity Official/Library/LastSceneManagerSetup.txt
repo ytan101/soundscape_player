@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_Controller.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
