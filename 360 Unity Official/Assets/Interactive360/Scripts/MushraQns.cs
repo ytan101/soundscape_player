@@ -72,6 +72,7 @@ namespace Interactive360
         // Each qn has 3 lines in textfile
         public void NextQn()
         {
+            ReaperManager.instance.StopOsc();
             // Change to count max number of scenes
             if (VideoCounter == VideoMax)
             {
@@ -83,10 +84,12 @@ namespace Interactive360
             MenuManager.instance.UpdateMenu();
             VideoCounter++;
             GameManager.instance.SelectScene("scene_" + (VideoCounter).ToString());
+            ReaperManager.instance.PlayOsc();
         }
 
         public void PrevQn()
         {
+            ReaperManager.instance.StopOsc();
             if (VideoCounter == 4)
             {
                 return;
@@ -96,6 +99,7 @@ namespace Interactive360
             MenuManager.instance.UpdateMenu();
             VideoCounter--;
             GameManager.instance.SelectScene("scene_" + (VideoCounter).ToString());
+            ReaperManager.instance.PlayOsc();
         }
 
         public void RecordResponse(string response)
