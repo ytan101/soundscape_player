@@ -294,6 +294,8 @@ namespace Interactive360
             // Max videos reached and then return to main menu
             if (VideoCounter == VideoMax)
             {
+                string current_values = (slider1.value).ToString() + "," + (slider2.value).ToString() + "," + (slider3.value).ToString();
+                RecordResponse(current_values);
                 MenuManager.instance.DisplayMain();
             }
             else 
