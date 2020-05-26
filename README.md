@@ -47,6 +47,4 @@ While most of the project is based around Unity, a separate DAW (REAPER) is used
 
 ## Authors
 
-* **Tan Yi Xian** - *Initial work* - [ytan101](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Tan Yi Xian** - *Initial work* - [ytan101](https://github.com/ytan101)
