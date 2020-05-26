@@ -9,15 +9,15 @@ While most of the project is based around Unity, a separate DAW (REAPER) is used
 ### Prerequisites
 1. HTC Vive or other VR controllers with OpenVR/SteamVR support
 
-2. Unity + Assets
-[Base Client](https://unity3d.com/get-unity/download)
+2. Unity + Assets  
+[Base Client](https://unity3d.com/get-unity/download)  
 [OSCSimpl](https://assetstore.unity.com/packages/tools/input-management/osc-simpl-53710)
 
-3. REAPER + Plugins
-[Base Client](https://www.reaper.fm/)
+3. REAPER + Plugins  
+[Base Client](https://www.reaper.fm/)  
 [COMPASS VST Plugin](http://research.spa.aalto.fi/projects/compass_vsts/plugins.html)
 
-4. HEVC Video Extensions (if .h265 videos don't run)
+4. HEVC Video Extensions (if .h265 videos don't run)  
 [Extension](https://www.microsoft.com/en-us/p/hevc-video-extensions-from-device-manufacturer/9n4wgh0z6vhq)
 
 ### Installing
