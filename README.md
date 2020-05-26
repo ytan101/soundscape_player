@@ -7,24 +7,24 @@ This Unity based project will enable users to play 360 videos and also compare d
 While most of the project is based around Unity, a separate DAW (REAPER) is used to translate the audio into a 360 environment. Please follow the steps to link both programs together.
 
 ### Prerequisites
-*HTC Vive or other VR controllers with OpenVR/SteamVR support
+1. HTC Vive or other VR controllers with OpenVR/SteamVR support
 
-*Unity
+2. Unity + Assets
 
 ```
-Base Client - https://unity3d.com/get-unity/download
-OSCSimpl Package - https://assetstore.unity.com/packages/tools/input-management/osc-simpl-53710
-```
-
-*REAPER
-```
-Base Client - https://www.reaper.fm/
-COMPASS VST Plugin - http://research.spa.aalto.fi/projects/compass_vsts/plugins.html
+[Base Client](https://unity3d.com/get-unity/download)
+[OSCSimpl](https://assetstore.unity.com/packages/tools/input-management/osc-simpl-53710)
 ```
 
-*HEVC Video Extensions (if .h265 videos don't run)
+3. REAPER + Plugins
 ```
-Extension - https://www.microsoft.com/en-us/p/hevc-video-extensions-from-device-manufacturer/9n4wgh0z6vhq
+[Base Client](https://www.reaper.fm/)
+[COMPASS VST Plugin](http://research.spa.aalto.fi/projects/compass_vsts/plugins.html)
+```
+
+4. HEVC Video Extensions (if .h265 videos don't run)
+```
+[Extension](https://www.microsoft.com/en-us/p/hevc-video-extensions-from-device-manufacturer/9n4wgh0z6vhq)
 ```
 
 ### Installing
